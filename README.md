@@ -73,4 +73,4 @@ Key areas I’ve worked in:
 
 ---
 
-⚡ *Currently:* Research Intern @ **DRDO DYSL-AI Lab** – Working on **Text-to-Sketch & Sketch-to-Image generation** using Stable Diffusion as part of M.Tech Thesis.  
+⚡ *Currently:* Research Intern @ **DRDO DYSL-AI Lab** – Working on **Wargaming** using **Reinforcement Learning** 
