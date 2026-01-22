@@ -6,7 +6,7 @@
 ⚡ Building AI systems that work in the real world — from battlefield-ready situational awareness modules to multilingual AI translators.  
 🛰️ Passionate about applied AI, cyber-physical systems, aerial robotics, and scalable ML deployment.  
 
-My Website: [![Techayush.pro](https://techayush.pro/)
+🔗 Website: https://techayush.pro 
 ---
 
 ## 🌐 Connect With Me  
