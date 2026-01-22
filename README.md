@@ -10,9 +10,9 @@
 
 ## 🌐 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/aayushya-verma-328729194)  
-[![Medium](https://img.shields.io/badge/Medium-black?style=flat&logo=medium)](your-medium-link)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode)](your-leetcode-link)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-brightgreen?style=flat&logo=hackerrank)](your-hackerrank-link)  
+[![Medium](https://img.shields.io/badge/Medium-black?style=flat&logo=medium)]((https://medium.com/@aayushyaverma))  
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode)](https://leetcode.com/u/aayushyaverma/)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-brightgreen?style=flat&logo=hackerrank)]((https://www.hackerrank.com/profile/aayushyaverma))  
 
 ---
 
