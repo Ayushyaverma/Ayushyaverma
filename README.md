@@ -6,13 +6,14 @@
 ⚡ Building AI systems that work in the real world — from battlefield-ready situational awareness modules to multilingual AI translators.  
 🛰️ Passionate about applied AI, cyber-physical systems, aerial robotics, and scalable ML deployment.  
 
+My Website: [![Techayush.pro](https://techayush.pro/)
 ---
 
 ## 🌐 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/aayushya-verma-328729194)  
-[![Medium](https://img.shields.io/badge/Medium-black?style=flat&logo=medium)]((https://medium.com/@aayushyaverma))  
+[![Medium](https://img.shields.io/badge/Medium-black?style=flat&logo=medium)](https://medium.com/@aayushyaverma)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode)](https://leetcode.com/u/aayushyaverma/)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-brightgreen?style=flat&logo=hackerrank)]((https://www.hackerrank.com/profile/aayushyaverma))  
+[![HackerRank](https://img.shields.io/badge/HackerRank-brightgreen?style=flat&logo=hackerrank)](https://www.hackerrank.com/profile/aayushyaverma)  
 
 ---
 
